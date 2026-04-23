@@ -46,3 +46,4 @@ function display() {
     stroke(50, 50, 50);                         // pendulum arm color
     strokeWeight(2);                            // pendulum arm width
     line(pivotPoint.x, pivotPoint.y, position.x, position.y);
+}
